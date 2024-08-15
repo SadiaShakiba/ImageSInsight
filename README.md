@@ -17,10 +17,21 @@ This is a cutting-edge application designed to revolutionize image analysis with
     * __Image Processing:__ PIL, OpenCV
 
 # Interface Design
-*__Homepage__
+__Homepage__
 ![alt_img](https://github.com/SadiaShakiba/ImageSInsight/blob/db50bffff782553013e2a3578eaae9cc4e561b65/image7.png)
-*__Menubar__
-![alt_img1]()
+__Menubar__
+![alt_img1](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image3.png)
+__PlantDiseasePrediction__
+![alt_img2](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image4.png)
+__PlantDiseasePrediction(after show button)__
+![alt_img3](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image1.png)
+__PlantDiseasePrediction(after predict button)__
+![alt_img4](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image2.png)
+__FractureClassification__
+![alt_img5](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image5.png)
+__PolypSegmentation__
+![alt_img6](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image6.png)
+
 # Reference Papers
 * [Fracture Classification](https://ieeexplore.ieee.org/abstract/document/10534439)
 * [Polyp Segmentation](https://arxiv.org/abs/2407.19327)
