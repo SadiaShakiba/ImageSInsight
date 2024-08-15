@@ -18,3 +18,5 @@ This is a cutting-edge application designed to revolutionize image analysis with
 
 # Interface Design
 # Reference Papers
+* [Fracture Classification](https://ieeexplore.ieee.org/abstract/document/10534439)
+* [Polyp Segmentation](https://arxiv.org/abs/2407.19327)
