@@ -17,7 +17,10 @@ This is a cutting-edge application designed to revolutionize image analysis with
     * __Image Processing:__ PIL, OpenCV
 
 # Interface Design
-![alt_omg](https://github.com/SadiaShakiba/ImageSInsight/blob/db50bffff782553013e2a3578eaae9cc4e561b65/image7.png)
+*__Homepage__
+![alt_img](https://github.com/SadiaShakiba/ImageSInsight/blob/db50bffff782553013e2a3578eaae9cc4e561b65/image7.png)
+*__Menubar__
+![alt_img1]()
 # Reference Papers
 * [Fracture Classification](https://ieeexplore.ieee.org/abstract/document/10534439)
 * [Polyp Segmentation](https://arxiv.org/abs/2407.19327)
