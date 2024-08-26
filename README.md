@@ -24,9 +24,9 @@ __Menubar__
 __PlantDiseasePrediction__
 ![alt_img2](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image4.png)
 __PlantDiseasePrediction(after show button)__
-![alt_img3](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image1.png)
+![alt_img3](https://github.com/SadiaShakiba/ImageSInsight/blob/52aa343e74c46cee724c39a3a9d80150c8643426/image8.png)
 __PlantDiseasePrediction(after predict button)__
-![alt_img4](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image2.png)
+![alt_img4](https://github.com/SadiaShakiba/ImageSInsight/blob/52aa343e74c46cee724c39a3a9d80150c8643426/image9.png)
 __FractureClassification__
 ![alt_img5](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image5.png)
 __PolypSegmentation__
