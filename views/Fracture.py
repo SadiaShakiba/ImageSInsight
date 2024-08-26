@@ -23,8 +23,8 @@ st.markdown("""
         background-color: #145a32;
     }
     .image-box {
-        width: 288px; 
-        height: 288px;
+        width: 308px; 
+        height: 308px;
         border: 2px dashed #000;
         border-radius: 5px; 
         display: flex;
