@@ -28,7 +28,7 @@ __PlantDiseasePrediction(after show button)__
 __PlantDiseasePrediction(after predict button)__
 ![alt_img4](https://github.com/SadiaShakiba/ImageSInsight/blob/52aa343e74c46cee724c39a3a9d80150c8643426/image9.png)
 __FractureClassification__
-![alt_img5](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image5.png)
+![alt_img5](https://github.com/SadiaShakiba/ImageSInsight/blob/29f1f8a7cfff4b0c82e3b8aba35a7ffb0ac2b66b/image10.png)
 __PolypSegmentation__
 ![alt_img6](https://github.com/SadiaShakiba/ImageSInsight/blob/e95d5173c3efb6f82ad2d2e574470f604a848764/image6.png)
 
